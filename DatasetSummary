@@ -1,0 +1,11 @@
+# Dataset Summary
+The dataset we are analyzing with this climate change project is the Data on CO2 and Greenhouse Gas Emissions by Our World in Data.
+This data was collected from a multitude of sources including the Global Carbon project, Climate Watch portal, the BP statistical review of World Energy, and many World Bank or World Development Indicators.
+The data was provided to create a complete and robust amalgamation of Greenhouse gas and co2 metrics for each country, continent, and other categories such as high income countries.
+Authors of this dataset, Hannah Ritchie, Max Roser, Edouard Mathieu, Bobbie Macdonald and Pablo Rosado, set out to create a comprehensive but readable and easily accessible climate change dataset.
+They wanted this dataset to include every country and several forms of co2 analysis such as per capita, per GDP, concrete co2, and many others.
+This dataset has 61 columns and 25989 rows all of which provide valuable and legible data on the subject of climate change over time.
+Data was retrieved from independent investigations and from governmental sources.
+Some possible limitations of the data include the measuring of co2 emissions per country as co2 emissions are difficult to measure even with proper documentation.
+Especially in countries with unstable governments, measuring co2 emissions is not a top priority and therefore these figures may be educated guesses at best.
+Governments did not treat climate change with care until recently, and with this data going as far back as the 1750s, documentation may be incredibly inaccurate.
